@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="DI_Country">71916a05db17b7005526c4c115961951</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">d3b12e45db17b7005526c4c11596195a</icon>
+        <item_view display_value="Country_Selection detail item view">2bb16e45db17b7005526c4c1159619e2</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>a3b16e45db17b7005526c4c1159619f6</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-14 18:31:58</sys_created_on>
+        <sys_id>afb16e45db17b7005526c4c1159619fb</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="TPL_Selection" source="x_scbgh_tpl_select">baaed2c1db17b7005526c4c115961947</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPL_Selection">baaed2c1db17b7005526c4c115961947</sys_scope>
+        <sys_update_name>sys_sg_details_screen_afb16e45db17b7005526c4c1159619fb</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-14 18:33:25</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

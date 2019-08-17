@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>true</available_offline>
+        <data_item display_value="DI_Country">71916a05db17b7005526c4c115961951</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">d3b12e45db17b7005526c4c11596195a</icon>
+        <name>TPL Selection</name>
+        <order>10</order>
+        <parent>d00f9ac1db17b7005526c4c11596198a</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-14 18:31:57</sys_created_on>
+        <sys_id>efb1ae05db17b7005526c4c115961952</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>TPL Selection</sys_name>
+        <sys_package display_value="TPL_Selection" source="x_scbgh_tpl_select">baaed2c1db17b7005526c4c115961947</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPL_Selection">baaed2c1db17b7005526c4c115961947</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_efb1ae05db17b7005526c4c115961952</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-14 18:33:22</sys_updated_on>
+    </sys_sg_master_detail_screen>
+</record_update>
